@@ -1,6 +1,6 @@
 'Joshua Makuch
 'RCET0265
-'Fall 2023
+'Winter 2023
 'Accumulate Messages
 'https://github.com/JoshuaMakuch/AccumulateMessages.git
 
